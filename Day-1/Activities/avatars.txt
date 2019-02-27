@@ -1,0 +1,9 @@
+http://www.oddcast.com/home/demos/tts/tts_example.php
+
+Bonjour mon nom est Bernard et aujourd'hui nous allons apprendre une nouvelle langue
+
+Hallo, ich heiße Anna und heute werden wir eine neue Sprache lernen
+
+こんにちは、私の名前はHarukaです。今日、私たちは新しい言語を学びます。
+
+Hola mi nombre es Manuel hoy aprenderemos un nuevo lenguaje
